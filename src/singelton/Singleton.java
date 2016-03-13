@@ -26,8 +26,8 @@ enum Singleton2 {
 
 /**
  * Synchronized Accessor
- *  + lazy
- *  - low efficiency
+ * + lazy
+ * - low efficiency
  */
 
 class Singleton3 {
@@ -70,7 +70,6 @@ class Singleton4 {
  * + lazy
  * + high performance
  * - can't be use for non static fields
- *
  */
 
 

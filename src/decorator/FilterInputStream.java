@@ -4,13 +4,14 @@ import java.io.InputStream;
 
 /**
  * Decorator pattern - intend to attach additional responsibilities to an object
- *
  */
 
 
 public class FilterInputStream extends InputStream {
 
-    /** The Decorator object contains a reference to the actual object. */
+    /**
+     * The Decorator object contains a reference to the actual object.
+     */
     private InputStream in;
 
     protected FilterInputStream(InputStream in) {
