@@ -6,4 +6,5 @@ In progress. Project for self-education. Collection of design patterns.
 2. Decorator
 3. Abstract Factory
 4. Factory Method
-5. ...
+5. Builder
+6. ...
