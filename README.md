@@ -5,4 +5,5 @@ In progress. Project for self-education. Collection of design patterns.
 1. Singleton
 2. Decorator
 3. Abstract Factory
-4. ...
+4. Factory Method
+5. ...
