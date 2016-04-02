@@ -7,4 +7,5 @@ In progress. Project for self-education. Collection of design patterns.
 3. Abstract Factory
 4. Factory Method
 5. Builder
-6. ...
+6. Adapter
+7. ...
