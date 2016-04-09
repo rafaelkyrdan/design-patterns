@@ -8,4 +8,5 @@ In progress. Project for self-education. Collection of design patterns.
 4. Factory Method
 5. Builder
 6. Adapter
-7. ...
+7. Facade
+8. ...
