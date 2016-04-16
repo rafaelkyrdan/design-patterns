@@ -9,4 +9,5 @@ In progress. Project for self-education. Collection of design patterns.
 5. Builder
 6. Adapter
 7. Facade
-8. ...
+8. Chain of responsibility.
+9. ...
