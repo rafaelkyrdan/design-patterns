@@ -18,6 +18,6 @@ First we set up the chain, last handler doesn't have a reference to the next han
 All our files we digest throw the our chain we start from the first handler.
 
 
-## When to use The Builder Pattern?
+## When to use The Chain of Responsibility Pattern?
 1. You want to issue a request to one of several objects without specifying the receiver explicitly.
 2. More than one objects may handle a request, and the handler isn’t known.
