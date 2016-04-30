@@ -11,4 +11,5 @@ In progress. Project for self-education. Collection of design patterns.
 7. Facade
 8. Chain of responsibility.
 9. Proxy
-10. ...
+10. Composite
+11. ...
