@@ -1,7 +1,7 @@
 package builder;
 
 /**
- * Product A type builder.
+ * Detail A type builder.
  */
 
 class ProductATypeBuilder implements ProductBuilder {

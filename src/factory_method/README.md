@@ -7,7 +7,7 @@ the logic of select and instantiate a specific class.
 The Factory Method selects an appropriate class from based on the application context, conditions and other influencing factors.
 
 ## How to use it?
-1. File parser.java consists of abstract class Parser and it's subclasses which represent different types of product.
+1. File parser.java consists of abstract class Parser and it's subclasses which represent different types of detail.
 2. DisplayService shows the parsed methods but subclasses instantiate a specific parsers.
 3. Example shows that we can create different instances of parsers at runtime.
 

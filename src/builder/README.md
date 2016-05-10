@@ -11,12 +11,12 @@ required for the construction of the final object. Adding a new implementation (
 
 
 ## How it works?
-Imagine we have a product and product has a lot of properties which describe it. Look in the `Product.java` file.
-The ProductBuilder is the builder interface contains set of common methods used to build the product object and its components.
-Look in the `ProductBuilder.java` file. The getProduct method is used to return the final product object to the client after its construction.
-Let’s see two implementations of the ProductBuilder interface, one for each type of product, i.e., for A and B.
+Imagine we have a detail and detail has a lot of properties which describe it. Look in the `Product.java` file.
+The ProductBuilder is the builder interface contains set of common methods used to build the detail object and its components.
+Look in the `ProductBuilder.java` file. The getProduct method is used to return the final detail object to the client after its construction.
+Let’s see two implementations of the ProductBuilder interface, one for each type of detail, i.e., for A and B.
 Check files `ProductATypeBuilder.java` and `ProductBTypeBuilder.java`. 
-Two builders create and construct the product, according to the specification. 
+Two builders create and construct the detail, according to the specification.
 Finally, `Director.java` includes logic for invoking different builder 
 methods required for the construction of the final object.
 Check the example `ExampleProductBuilder.java`.

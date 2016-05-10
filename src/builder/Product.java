@@ -1,7 +1,7 @@
 package builder;
 
 /**
- * Class Product and it's properties which describe it.
+ * Class Detail and it's properties which describe it.
  */
 
 public class Product {
@@ -61,7 +61,7 @@ public class Product {
 
     @Override
     public String toString() {
-        return "Product " + "type " + type + "\n" +
+        return "Detail " + "type " + type + "\n" +
                 "property1='" + property1 + "\n" +
                 ", property2='" + property2 + "\n" +
                 ", property3='" + property3 + "\n" +
