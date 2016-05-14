@@ -12,4 +12,5 @@ In progress. Project for self-education. Collection of design patterns.
 8. Chain of responsibility.
 9. Proxy
 10. Composite
-11. ...
+11. Observer
+12. ...
