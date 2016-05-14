@@ -27,7 +27,7 @@ Now let's check our example in the file `ExampleCompositePattern.java` which sho
 a single object and composition of objects uniformly, because we use the composite pattern.
 The Client manipulates objects in the composition through the Component interface.
 
-## When to use The Chain of Responsibility Pattern?
+## When to use The Composite?
 - When you want to represent hierarchies of objects.
 - When you want clients to be able to ignore the difference between compositions of objects and individual objects.
 

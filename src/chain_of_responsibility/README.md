@@ -1,4 +1,4 @@
-# Builder
+# The Chain of Responsibility Pattern
 
 ## What's it?
 The Chain of Responsibility pattern is a behavior pattern. A group of objects is chained together 
