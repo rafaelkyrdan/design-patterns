@@ -32,6 +32,7 @@ As a result we reduced the amount of instances of heavy-weight objects.
 ## When to use The Flyweight?
 Effectiveness of this pattern depends heavily on how and where it’s used.
 So use it when:
+
 1. Group of objects may be replaced by relatively few shared objects once external state is removed.
 2. The application doesn't depend on object identity.
 3. Storage costs are high because of the sheer quantity of objects.
