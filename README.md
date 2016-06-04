@@ -15,4 +15,5 @@ In progress. Project for self-education. Collection of design patterns.
 11. Observer
 12. Mediator
 13. Flyweight 
-14. ...
+14. Prototype
+15. ...
