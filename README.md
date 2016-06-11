@@ -16,4 +16,5 @@ In progress. Project for self-education. Collection of design patterns.
 12. Mediator
 13. Flyweight 
 14. Prototype
-15. ...
+15. Memento
+16. ...
