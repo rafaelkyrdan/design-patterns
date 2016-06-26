@@ -18,4 +18,5 @@ In progress. Project for self-education. Collection of design patterns.
 14. Prototype
 15. Memento
 16. Template
-17. ...
+17. State
+18. ...
