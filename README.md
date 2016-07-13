@@ -20,4 +20,5 @@ In progress. Project for self-education. Collection of design patterns.
 16. Template
 17. State
 18. Strategy
-19. ...
+19. Command
+20. ...
