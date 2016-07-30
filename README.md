@@ -22,5 +22,5 @@ In progress. Project for self-education. Collection of design patterns.
 18. Strategy
 19. Command
 20. Interpreter
-21. ...
+21. Visitor
 
