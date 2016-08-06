@@ -1,26 +1,34 @@
 # design-patterns
-In progress. Project for self-education. Collection of design patterns.
+Collection of design patterns(GoF).
 
-#### List of design patterns
-1. Singleton
-2. Decorator
-3. Abstract Factory
-4. Factory Method
-5. Builder
-6. Adapter
-7. Facade
-8. Chain of responsibility.
-9. Proxy
-10. Composite
-11. Observer
-12. Mediator
-13. Flyweight 
-14. Prototype
-15. Memento
-16. Template
-17. State
-18. Strategy
-19. Command
-20. Interpreter
-21. Visitor
+## List of design patterns
 
+### Behavioral patterns
+1. Chain of responsibility
+2. Command
+3. Interpreter
+4. Iterator
+5. Mediator
+6. Memento
+7. Observer
+8. State
+9. Strategy
+10. Template
+11. Visitor
+
+### Creational patterns
+1. Abstract Factory
+2. Builder
+3. Factory Method
+4. Prototype
+5. Singleton
+
+
+### Structural patterns
+1. Adapter
+2. Bridge
+3. Composite
+4. Decorator 
+5. Facade
+6. Flyweight
+7. Proxy
